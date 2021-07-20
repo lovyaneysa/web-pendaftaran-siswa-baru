@@ -19,7 +19,7 @@ include 'head.php'; ?>
         </div> </div>
         <div class="col-md-4">
         <div class="jumbotron">
-        	<h2>Program Pendukung</h2>
+        	<h2>Program Pendukung TK</h2>
         	<ul class="misi">
         		<li>Kunjungan Edukatif</li>
         		<li>Porseni Anak</li>
